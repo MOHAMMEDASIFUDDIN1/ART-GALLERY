@@ -105,12 +105,7 @@ MySQL Server
 Maven
 Eclipse/Red Hat CodeReady Studio (or any IDE with Java EE support)
 Steps
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/ArtGalleryManagementSystem.git
-cd ArtGalleryManagementSystem
 Database Setup:
 
 Import the provided SQL file into MySQL.
